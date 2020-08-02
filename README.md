@@ -14,5 +14,7 @@ Simple script that checks if a ros package is installed.
 
   ## Example:
   
-   ![asdf](/roslist/asdf.jpg)
-   ![asdf2](beevabeeva/roslist/sucks.jpg)
+   ![asdf](https://github.com/beevabeeva/roslist/blob/master/asdf.jpg)
+   
+   
+   ![asdf2](https://github.com/beevabeeva/roslist/blob/master/sucks.jpg)
